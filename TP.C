@@ -6,5 +6,5 @@ void afficherHelloWorld() {
 
 int main() {
     afficherHelloWorld();
-    return 0;
+    return 1;
 }
