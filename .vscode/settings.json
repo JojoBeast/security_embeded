@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "TP.C": "cpp"
+        "TP.C": "cpp",
+        "swap.C": "cpp"
     }
 }

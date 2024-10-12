@@ -1,0 +1,3 @@
+// Produire le .s : gcc -O1 -S swap.c -o swap.s
+// lire un .O : objdump -d swap.o en assembleur
+
